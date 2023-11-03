@@ -3,6 +3,77 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/emendesn?label=seguir&style=social)
 # Cursos On-LIne
 
-## Curso c/c++
-### Aula 1
-   - Aula 1
+## Curso python - https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
+### Aulas
+   - Aula 1 - Abertur do Curso
+   - Aula 2 - Instalando Python
+   - Aula 3 - Recursos Python I
+   - Aula 4 - Recursos Python II
+   - Aula 5 - Modo Interativo IDLE
+   - Aula 6 - Desenvolvendo aplicacoes Comerciais
+   - Aula 7 - Instalando PyCharm
+   - Aula 8 - Primeiro Programa
+   - Aula 9 - Comentarios
+   - Aula 10- Indentacao
+   - Aula 11- Programacao - Parte 1
+   - Aula 12- Variaveis
+   - Aula 13- Caracteristicas das Variaveis
+   - Aula 14- Nomenclatura das Variaveis
+   - Aula 15- Tipos de Dados
+   - Aula 16- Ponto Flutuante
+   - Aula 17- Entrada de Dados
+   - Aula 18- Operacoes Matematicas
+   - Aula 19- Modulo de Divisao
+   - Aula 20- Potenciacao e Radiacao
+   - Aula 21- Operadores Relacionais
+   - Aula 22- Tomada de Decisoes
+   - Aula 23- Tomada de Decisoes II
+   - Aula 24- Depuracao
+   - Aula 25- Operadores Relacionais
+   - Aula 26- Operadores Relacionais na Pratica
+   - Aula 27- Operadores Logicos
+   - Aula 28- Bloco de Instrucao
+   - Aula 29- Bloco de Instrucao II
+   - Aula 30- Bloco de Instrucao na Pratica
+   - Aula 31- Escopo
+   - Aula 32- Operadores de Atribuicao
+   - Aula 33- Atribuicao Multipla
+   - Aula 34- Operadores de Atribuicao
+   - Aula 35- Atribuicao Condicional
+   - Aula 36- Interacao
+   - Aula 37- Lacos de Repeticao
+   - Aula 38- While else
+   - Aula 39- For loop
+   - Aula 40- Range
+   - Aula 41- Laco For e a funcao Range()
+   - Aula 42- Intrucao Break
+   - Aula 43- Intrucao Continue
+   - Aula 44- Estrutura de Dados
+   - Aula 45- Lista, Pilha, Array, Set
+   - Aula 46- Class List I
+   - Aula 47- Class List II
+   - Aula 48- Lista III
+   - Aula 49- Interando Listas
+   - Aula 50- Fatiando Listas
+   - Aula 51- Incluindo, Alterando e Excluindo
+   - Aula 52- Ordenamento de Listas
+   - Aula 53- Quantidade de Elementos
+   - Aula 54- Tuplas
+   - Aula 55- Operadores IN e NOT IN
+   - Aula 56- Operadores AND, OR e IN
+   - Aula 57- Exemplos com o Operador IN
+   - Aula 58- Introducao as Strings
+   - Aula 59- Fatiando String
+   - Aula 60- Propriedades das Strings
+   - Aula 61- Comparando String
+   - Aula 62- Interando Strings
+   - Aula 63- Introducao aos Dicionarios
+   - Aula 64- Dicionarios na Pratica
+   - Aula 65- Funcoes dos Dicionarios
+   - Aula 66- Introducao a Funcoes
+   - Aula 67- Parametros de Funcao
+   - Aula 68- Parametros Default
+   - Aula 69- Argumentos Nomeados vc Argumentos Posicionais
+   - Aula 70- Retorno de Valores por Funcoes
+   - Aula 71- Retorno de Valores Multiplos
+   - Aula 72- Funcoes Variaticas
