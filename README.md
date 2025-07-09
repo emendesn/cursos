@@ -3,6 +3,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/emendesn?label=seguir&style=social)
 # Cursos On-LIne
 
-## Curso c/c++
-### Aula 1
-   - Aula 1
+## Python-dio
+### Aula 1 - Primeiro Programa (/home/edilson/cursos/python-dio/aula-001)
+
