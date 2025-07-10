@@ -9,3 +9,9 @@
 ## Python-dio
 ### Aula 1 - Primeiro Programa (/home/edilson/cursos/python-dio/aula-001)
 
+### Aula 2 
+#### Tipos de Dados
+#### Modo Interativo
+#### Variaveis e Constantes
+#### Conversao de Tipo
+#### Funcoes de Entrada e Saida
